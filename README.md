@@ -20,6 +20,7 @@ Fivem Advanced Housing (WIP)
 - Police Raid Feature
 - Player able to Sell House
 - Player Able to Create a Custom House (PROPS)
+- a lot of BUILT in Script to Support Interactive Feature.. Example: Cooking, Watching TV etc..
 - And Many more to be added here (UPDATE SOON, post your custom request feature if you want)
 
 # This Project  K4MBI is partner 💓
