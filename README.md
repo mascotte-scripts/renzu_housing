@@ -12,7 +12,7 @@ Fivem Advanced Housing (WIP)
 - Furniture Shop
 - Furniture Management builtin
 - Interactive Furniture not just a DISPLAY! ( make your imagination )
-- Built in House Robbery (Player Stashs if Online and AI and random items configurable if owner is offline)
+- Built in House Robbery (Player Stashs if Online and furniture and AI and random items configurable if owner is offline)
 - Built in Stash
 - Built in Wardrobe
 - Built in Garage
